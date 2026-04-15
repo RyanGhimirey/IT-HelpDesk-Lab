@@ -14,10 +14,9 @@ Resolved an intermittent network connectivity issue affecting multiple users on 
 - Initiated a reboot of the affected Floor 2 switch to restore normal operation
 
 ## Resolution
-- Successfully rebooted the Floor 2 switch
-- Verified that the switch returned to an online status
-- Confirmed that network connectivity was stable for affected users
-- Communicated with the user to confirm the issue was fully resolved
+- Successfully restored the Floor 2 switch to an online state
+- Verified that network connectivity stabilized for affected users
+- Confirmed with the user that the issue was fully resolved
 
 ## Business Impact
 Restored stable network connectivity for an entire floor, preventing disruptions to meetings, cloud-based work, and overall productivity.
@@ -39,11 +38,8 @@ Restored stable network connectivity for an entire floor, preventing disruptions
 ### 2. Floor 2 Switch Error
 ![Switch Error](screenshots/02-server-room-floor-2-switch-error.png)
 
-### 3. Rebooting Floor 2 Switch
-![Reboot Switch](screenshots/03-reboot-floor-2-switch.png)
+### 3. Switch Status Restored
+![Switch Restored](screenshots/03-switch-status-restored.png)
 
-### 4. Switch Status Restored
-![Switch Restored](screenshots/04-switch-status-restored.png)
-
-### 5. User Confirmation Chat
-![User Confirmation](screenshots/05-user-confirmation-chat.png)
+### 4. User Confirmation Chat
+![User Confirmation](screenshots/04-user-confirmation-chat.png)
